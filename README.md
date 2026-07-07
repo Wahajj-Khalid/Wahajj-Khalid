@@ -1,4 +1,4 @@
-# My name is Wahajj Khalid.
+# Wahajj Khalid.
 
 A dedicated Computer Science graduate from Air University with a strong academic foundation and hands-on experience building scalable applications.
 
@@ -9,7 +9,7 @@ A dedicated Computer Science graduate from Air University with a strong academic
 
 ## Highlighted Projects
 
-### 1. Blockchain-Based EHR & AI Medical Coding
+### 1. Blockchain-Based EHR and AI Medical Coding
 * **Overview:** A decentralized healthcare platform securing patient health records using blockchain and AI-powered medical coding.
 * **Tech Stack:** Node.js, Express.js, PostgreSQL, Blockchain, AI, JWT, RBAC
 
