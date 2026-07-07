@@ -1,4 +1,4 @@
-# Wahajj Khalid.
+# Wahajj Khalid
 
 A dedicated Computer Science graduate from Air University with a strong academic foundation and hands-on experience building scalable applications.
 
